@@ -1,2 +1,4 @@
-# spring4shell
-spring4shell exploit code
+## Spring4Shell exploit code
+========
+### exploit command
+    python3 exploit.py --url http://endpoint:ports/
